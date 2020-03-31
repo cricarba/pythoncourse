@@ -1,0 +1,1309 @@
+sprint,identificador,titulo,estado,asignado,Tiempo estimado,Tiempo real,Tiempo faltante,Tag
+Inventario AAM en Windows y MAC,124511,Revisión de código,To Do,Brayan Eduardo Camacho Pacheco,25,,25,Planeada
+Inventario AAM en Windows y MAC,124512,Planeación,In Progress,Brayan Eduardo Camacho Pacheco,6,4,6,Planeada
+Inventario AAM en Windows y MAC,124513,Coding Dojo: Infraestructura Multitenant,To Do,Brayan Eduardo Camacho Pacheco,2,2,2,Planeada
+Inventario AAM en Windows y MAC,124514,Retrospectiva,To Do,Brayan Eduardo Camacho Pacheco,4,,4,Planeada
+Inventario AAM en Windows y MAC,124515,Reunión diaria,To Do,Brayan Eduardo Camacho Pacheco,2,,2,Planeada
+Inventario AAM en Windows y MAC,124516,pruebas de licenciamiento,Done,Brayan Eduardo Camacho Pacheco,8,8,8,Planeada
+Inventario AAM en Windows y MAC,124517,pruebas de inventario de Software,Done,Brayan Eduardo Camacho Pacheco,8,8,8,Planeada
+Inventario AAM en Windows y MAC,124747,Membresias Usuarios,To Do,Brayan Eduardo Camacho pacheco,6,6,0,No Planeada
+Inventario AAM en Windows y MAC,124752,Membresias Grupos,To Do,Brayan Eduardo Camacho pacheco,6,6,0,No Planeada
+Inventario AAM en Windows y MAC,124753,NetworkAdapters,To Do,Brayan Eduardo Camacho pacheco,8,0,0,No Planeada
+Inventario AAM en Windows y MAC,124754,Revisión de NetworkAdapters,To Do,Brayan Eduardo Camacho pacheco,4,0,0,No Planeada
+Inventario AAM en Windows y MAC,124755,NetworkAdapterType Dependencia,To Do,Brayan Eduardo Camacho pacheco,3,0,0,No Planeada
+Inventario AAM en Windows y MAC,124756,NetworkAdapter Dependencia,To Do,Brayan Eduardo Camacho pacheco,3,0,0,No Planeada
+Inventario AAM en Windows y MAC,124757,Inventory Ip Address,To Do,Brayan Eduardo Camacho pacheco,4,0,0,No Planeada
+Inventario AAM en Windows y MAC,124375,Revisión de código,In Progress,Cristian Carvajal Bahamon,25,15,1,Planeada
+Inventario AAM en Windows y MAC,124309,Refactorizar clase de Error en dispositivos,Done,Cristian Carvajal Bahamon,40,4,0,Planeada
+Inventario AAM en Windows y MAC,124325,Planeación,Done,Cristian Carvajal Bahamon,40,4,0,Planeada
+Inventario AAM en Windows y MAC,124315,Coding Dojo: Infraestructura Multitenant,Done,Cristian Carvajal Bahamon,20,2,0,Planeada
+Inventario AAM en Windows y MAC,124330,Reuniones diarias,In Progress,Cristian Carvajal Bahamon,20,1,1,Planeada
+Inventario AAM en Windows y MAC,124333,Retrospectiva,To Do,Cristian Carvajal Bahamon,40,,4,Planeada
+Inventario AAM en Windows y MAC,124304,Restricción de software- No listar los dispositivos cuando se selecciona esta acción.,Done,Cristian Carvajal Bahamon,30,25,0,Planeada
+Inventario AAM en Windows y MAC,124302,APWM - Actualización políticas,Done,Cristian Carvajal Bahamon,20,2,0,Planeada
+Inventario AAM en Windows y MAC,124303,APWM - Eliminar archivos de politicas del conserver,Done,Cristian Carvajal Bahamon,50,1,0,Planeada
+Inventario AAM en Windows y MAC,124310,Documentación técnica APWM,To Do,Cristian Carvajal Bahamon,30,,3,Planeada
+Inventario AAM en Windows y MAC,123490,Armado de logica de listas transaccionales hardware,To Do,Cristian Carvajal Bahamon,80,,8,Planeada
+Inventario AAM en Windows y MAC,123502,Socialización con las pruebas que ya se realizaron del cruncher,Done,Cristian Carvajal Bahamon,20,2,0,Planeada
+Inventario AAM en Windows y MAC,124549,Estándares Base de datos,Done,Cristian Carvajal Bahamon,20,15,0,Planeada
+Inventario AAM en Windows y MAC,124672,Eliminar Politica de dispositivos removidos en la politica,Done,Cristian Carvajal Bahamon,10,3,0,No Planeada
+Inventario AAM en Windows y MAC,124673,Eliminar politica de los grupos removidos de la politca en consola,Done,Cristian Carvajal Bahamon,20,4,0,No Planeada
+Inventario AAM en Windows y MAC,124763,Creacion lógica dependecias diskDao,Done,Cristian Carvajal Bahamon,30,3,0,Planeada
+Inventario AAM en Windows y MAC,124764,Creacion lógica dependecias memoryDao,Done,Cristian Carvajal Bahamon,30,1,0,Planeada
+Inventario AAM en Windows y MAC,124765,Creacion lógica dependecias processorDao,Done,Cristian Carvajal Bahamon,30,1,0,Planeada
+Inventario AAM en Windows y MAC,124766,Creacion lógica dependecias biosDao,Done,Cristian Carvajal Bahamon,30,1,0,Planeada
+Inventario AAM en Windows y MAC,124767,Creacion lógica dependecias keyboardDao,Done,Cristian Carvajal Bahamon,30,1,0,Planeada
+Inventario AAM en Windows y MAC,124768,Creacion lógica dependecias printerDao,Done,Cristian Carvajal Bahamon,30,1,0,Planeada
+Inventario AAM en Windows y MAC,124769,Creacion lógica dependecias serviceDao,Done,Cristian Carvajal Bahamon,30,1,0,Planeada
+Inventario AAM en Windows y MAC,124770,Creacion lógica dependecias serviceStartupModeDao,Done,Cristian Carvajal Bahamon,30,1,0,Planeada
+Inventario AAM en Windows y MAC,124771,Creacion lógica dependecias serviceStatusDao,Done,Cristian Carvajal Bahamon,30,1,0,Planeada
+Inventario AAM en Windows y MAC,124772,Creacion lógica dependecias startupCommandDao,Done,Cristian Carvajal Bahamon,30,1,0,Planeada
+Inventario AAM en Windows y MAC,124773,Creacion lógica dependecias deviceServer,Done,Cristian Carvajal Bahamon,30,1,0,Planeada
+Inventario AAM en Windows y MAC,124774,Creacion lógica dependecias videoCardDao,Done,Cristian Carvajal Bahamon,30,1,0,Planeada
+Inventario AAM en Windows y MAC,124775,Creacion lógica dependecias portConnectorDao,Done,Cristian Carvajal Bahamon,30,1,0,Planeada
+Inventario AAM en Windows y MAC,124379,Revisión código,In Progress,Dustin Sley Pinedo Hernandez,25,2,05,Planeada
+Inventario AAM en Windows y MAC,124380,Planeación,Done,Dustin Sley Pinedo Hernandez,60,55,0,Planeada
+Inventario AAM en Windows y MAC,124381,Coding dojo Infraestructura Multitenant,Done,Dustin Sley Pinedo Hernandez,20,2,0,Planeada
+Inventario AAM en Windows y MAC,124382,Restrospectiva,To Do,Dustin Sley Pinedo Hernandez,30,,3,Planeada
+Inventario AAM en Windows y MAC,124383,Reuniones diarias,In Progress,Dustin Sley Pinedo Hernandez,20,125,075,Planeada
+Inventario AAM en Windows y MAC,124385,Prueba unitaria features,To Do,Dustin Sley Pinedo Hernandez,05,,05,Planeada
+Inventario AAM en Windows y MAC,124386,Prueba unitaria agentConfiguration,To Do,Dustin Sley Pinedo Hernandez,05,,05,Planeada
+Inventario AAM en Windows y MAC,124387,Prueba unitaria bios,To Do,Dustin Sley Pinedo Hernandez,05,,05,Planeada
+Inventario AAM en Windows y MAC,124388,Prueba unitaria boards,To Do,Dustin Sley Pinedo Hernandez,05,,05,Planeada
+Inventario AAM en Windows y MAC,124389,Prueba unitaria device,To Do,Dustin Sley Pinedo Hernandez,10,,1,Planeada
+Inventario AAM en Windows y MAC,124390,Prueba unitaria disk,To Do,Dustin Sley Pinedo Hernandez,05,,05,Planeada
+Inventario AAM en Windows y MAC,124391,Prueba unitaria displays,To Do,Dustin Sley Pinedo Hernandez,05,,05,Planeada
+Inventario AAM en Windows y MAC,124392,Prueba unitaria drivers,To Do,Dustin Sley Pinedo Hernandez,10,,1,Planeada
+Inventario AAM en Windows y MAC,124393,Prueba unitaria gruop,To Do,Dustin Sley Pinedo Hernandez,05,,05,Planeada
+Inventario AAM en Windows y MAC,124394,Prueba unitaria keyboard,To Do,Dustin Sley Pinedo Hernandez,05,,05,Planeada
+Inventario AAM en Windows y MAC,124395,Prueba unitaria users,To Do,Dustin Sley Pinedo Hernandez,05,,05,Planeada
+Inventario AAM en Windows y MAC,124396,Prueba unitaria location,To Do,Dustin Sley Pinedo Hernandez,05,,05,Planeada
+Inventario AAM en Windows y MAC,124397,Prueba unitaria memory,To Do,Dustin Sley Pinedo Hernandez,05,,05,Planeada
+Inventario AAM en Windows y MAC,124398,Prueba unitaria memorySlot,To Do,Dustin Sley Pinedo Hernandez,05,,05,Planeada
+Inventario AAM en Windows y MAC,124399,Prueba unitaria networkAdapter,To Do,Dustin Sley Pinedo Hernandez,1,,1,Planeada
+Inventario AAM en Windows y MAC,124400,Prueba unitaria OS,To Do,Dustin Sley Pinedo Hernandez,05,,05,Planeada
+Inventario AAM en Windows y MAC,124401,Prueba unitaria portConnectors,To Do,Dustin Sley Pinedo Hernandez,05,,05,Planeada
+Inventario AAM en Windows y MAC,124402,Prueba unitaria printers,To Do,Dustin Sley Pinedo Hernandez,05,,05,Planeada
+Inventario AAM en Windows y MAC,124403,Prueba unitaria processorSlot,To Do,Dustin Sley Pinedo Hernandez,1,,1,Planeada
+Inventario AAM en Windows y MAC,124404,Prueba unitaria service,To Do,Dustin Sley Pinedo Hernandez,05,,05,Planeada
+Inventario AAM en Windows y MAC,124405,Prueba unitaria setup,To Do,Dustin Sley Pinedo Hernandez,1,,1,Planeada
+Inventario AAM en Windows y MAC,124406,Prueba unitaria SharedResources,To Do,Dustin Sley Pinedo Hernandez,05,,05,Planeada
+Inventario AAM en Windows y MAC,124407,Prueba unitaria software,To Do,Dustin Sley Pinedo Hernandez,05,,05,Planeada
+Inventario AAM en Windows y MAC,124408,Prueba unitaria startupCommand,To Do,Dustin Sley Pinedo Hernandez,05,,05,Planeada
+Inventario AAM en Windows y MAC,124409,Prueba unitaria unitMappings,To Do,Dustin Sley Pinedo Hernandez,05,,05,Planeada
+Inventario AAM en Windows y MAC,124410,Prueba unitaria videoCars,To Do,Dustin Sley Pinedo Hernandez,05,,05,Planeada
+Inventario AAM en Windows y MAC,124414,Revision Arquitectura desarrollo Agente,Done,Dustin Sley Pinedo Hernandez,1,15,0,Planeada
+Inventario AAM en Windows y MAC,124424,Desarrollo clase JsonDeviceSerializer,Done,Dustin Sley Pinedo Hernandez,15,15,0,Planeada
+Inventario AAM en Windows y MAC,124425,Desarrollo clase JsonFeaturesSerializer,Done,Dustin Sley Pinedo Hernandez,05,075,0,Planeada
+Inventario AAM en Windows y MAC,124426,Desarrollo clase JsonSetupSerializer,Done,Dustin Sley Pinedo Hernandez,2,275,0,Planeada
+Inventario AAM en Windows y MAC,124427,Desarrollo clase JsonAgentConfigurationSerializer,Done,Dustin Sley Pinedo Hernandez,05,1,0,Planeada
+Inventario AAM en Windows y MAC,124428,Desarrollo clase JsonSmbBiosSerializer,Done,Dustin Sley Pinedo Hernandez,05,1,0,Planeada
+Inventario AAM en Windows y MAC,124429,Desarrollo clase JsonLocalUserSerializer,Done,Dustin Sley Pinedo Hernandez,05,1,05,Planeada
+Inventario AAM en Windows y MAC,124430,Desarrollo clase JsonGroupUserSerializer,Done,Dustin Sley Pinedo Hernandez,05,1,05,Planeada
+Inventario AAM en Windows y MAC,124431,Desarrollo clase JsonGeolocationSerializer,Done,Dustin Sley Pinedo Hernandez,05,075,05,Planeada
+Inventario AAM en Windows y MAC,124507,Recoleccion de logs para reunion,Done,Dustin Sley Pinedo Hernandez,05,05,0,Planeada
+Inventario AAM en Windows y MAC,124538,Desarrollo clase JsonNetworkAdapterSerializer,In Progress,Dustin Sley Pinedo Hernandez,2,325,025,Planeada
+Inventario AAM en Windows y MAC,124539,Desarrollo clase JsonDiskSerializer,In Progress,Dustin Sley Pinedo Hernandez,1,05,025,Planeada
+Inventario AAM en Windows y MAC,124540,Desarrollo clase JsonCdromSerializer,To Do,Dustin Sley Pinedo Hernandez,1,015,1,Planeada
+Inventario AAM en Windows y MAC,124541,Desarrollo clase JsonMemorySerializer,To Do,Dustin Sley Pinedo Hernandez,05,015,05,Planeada
+Inventario AAM en Windows y MAC,124542,Desarrollo clase JsonMemorySlotSerializer,To Do,Dustin Sley Pinedo Hernandez,05,015,05,Planeada
+Inventario AAM en Windows y MAC,124543,Desarrollo clase JsonProcessorSlotSerializer,To Do,Dustin Sley Pinedo Hernandez,1,015,1,Planeada
+Inventario AAM en Windows y MAC,124544,Desarrollo clase JsonDriverSerializer,To Do,Dustin Sley Pinedo Hernandez,05,015,05,Planeada
+Inventario AAM en Windows y MAC,124545,Desarrollo clase JsonPrinterSerializer,To Do,Dustin Sley Pinedo Hernandez,05,015,05,Planeada
+Inventario AAM en Windows y MAC,124548,Desarrollo clase JsonKeyboardSerializer,To Do,Dustin Sley Pinedo Hernandez,05,015,05,Planeada
+Inventario AAM en Windows y MAC,124550,Desarrollo clase JsonNetworkDriverSerializer,To Do,Dustin Sley Pinedo Hernandez,1,015,1,Planeada
+Inventario AAM en Windows y MAC,124551,Desarrollo clase JsonSharedResourceSerializer,To Do,Dustin Sley Pinedo Hernandez,1,015,1,Planeada
+Inventario AAM en Windows y MAC,124552,Desarrollo clase JsonVideoCardsSerializer,To Do,Dustin Sley Pinedo Hernandez,05,015,05,Planeada
+Inventario AAM en Windows y MAC,124553,Desarrollo clase JsonDisplaySerializer,To Do,Dustin Sley Pinedo Hernandez,05,015,05,Planeada
+Inventario AAM en Windows y MAC,124554,Desarrollo clase JsonOsDisplaySerializer,To Do,Dustin Sley Pinedo Hernandez,05,015,05,Planeada
+Inventario AAM en Windows y MAC,124555,Desarrollo clase JsonStartupCommandSerializer,To Do,Dustin Sley Pinedo Hernandez,05,015,05,Planeada
+Inventario AAM en Windows y MAC,124556,Desarrollo clase JsonServiceSerializer,To Do,Dustin Sley Pinedo Hernandez,05,015,05,Planeada
+Inventario AAM en Windows y MAC,123407,El perfil que tenga la opción de inventario al inicio deshabilitarlo,To Do,Dustin Sley Pinedo Hernandez,3,,3,Planeada
+Inventario AAM en Windows y MAC,123411,Documentación técnica,To Do,Dustin Sley Pinedo Hernandez,2,,2,Planeada
+Inventario AAM en Windows y MAC,123419,Documentación técnica del inventario en json,Done,Dustin Sley Pinedo Hernandez,2,4,0,Planeada
+Inventario AAM en Windows y MAC,124558,Desarrollo clase JsonSoftwareSerializer,To Do,Dustin Sley Pinedo Hernandez,1,,1,Planeada
+Inventario AAM en Windows y MAC,124562,Revision bug de descarga con errores,To Do,Dustin Sley Pinedo Hernandez,3,,3,Planeada
+Inventario AAM en Windows y MAC,123627,Desarrollo print DeviceInfo,Done,Dustin Sley Pinedo Hernandez,3,3,0,No Planeada
+Inventario AAM en Windows y MAC,124660,Desarrollo printFeautreInfo,Done,Dustin Sley Pinedo Hernandez,1,1,0,No Planeada
+Inventario AAM en Windows y MAC,124688,Solución hotfix watcher,Done,Dustin Sley Pinedo Hernandez,05,075,0,No Planeada
+Inventario AAM en Windows y MAC,124708,Revision visor,Done,Dustin Sley Pinedo Hernandez,05,05,0,No Planeada
+Inventario AAM en Windows y MAC,124741,Desarrollo clase JsonPortConnectorsSerializer,Done,Dustin Sley Pinedo Hernandez,1,1,0,No Planeada
+Inventario AAM en Windows y MAC,124742,Desarrollo método PrintPortConnectors,Done,Dustin Sley Pinedo Hernandez,1,1,0,No Planeada
+Inventario AAM en Windows y MAC,124760,Reversa a IPv4,Done,Dustin Sley Pinedo Hernandez,025,025,0,No Planeada
+Inventario AAM en Windows y MAC,124783,Desarrollo método printGroups,Done,Dustin Sley Pinedo Hernandez,1,1,0,No Planeada
+Inventario AAM en Windows y MAC,124355,Revisión de código,In Progress,Fernando Rodriguez,25,,25,Planeada
+Inventario AAM en Windows y MAC,124346,Planeación,Done,Fernando Rodriguez,6,45,0,Planeada
+Inventario AAM en Windows y MAC,124336,Reuniones diarias,In Progress,Fernando Rodriguez,2,,2,Planeada
+Inventario AAM en Windows y MAC,124337,Retrospectiva,To Do,Fernando Rodriguez,4,,4,Planeada
+Inventario AAM en Windows y MAC,124343,Coding dojo,Done,Fernando Rodriguez,2,2,0,Planeada
+Inventario AAM en Windows y MAC,123383,Estructura para integrar futuras funcionalidades de API,Done,Fernando Rodriguez,4,0,0,Planeada
+Inventario AAM en Windows y MAC,123384,Serializar AFL,To Do,Fernando Rodriguez,2,,2,Planeada
+Inventario AAM en Windows y MAC,123385,Generar inventario JSON,In Progress,Fernando Rodriguez,2,15,2,Planeada
+Inventario AAM en Windows y MAC,124324,Optimizar Query en Windows para detalles de archivos,To Do,Fernando Rodriguez,8,,8,Planeada
+Inventario AAM en Windows y MAC,124326,Generar inventario segun planeación,To Do,Fernando Rodriguez,2,,2,Planeada
+Inventario AAM en Windows y MAC,124328,Detectar si hay información para enviar,To Do,Fernando Rodriguez,2,,2,Planeada
+Inventario AAM en Windows y MAC,124329,Calcular tiempo de ejecución,Done,Fernando Rodriguez,1,2,0,Planeada
+Inventario AAM en Windows y MAC,124331,Excluir directorios,Done,Fernando Rodriguez,5,5,0,Planeada
+Inventario AAM en Windows y MAC,124332,Excluir archivos,Done,Fernando Rodriguez,3,3,0,Planeada
+Inventario AAM en Windows y MAC,124334,Lista por defecto - Lista blanca,Done,Fernando Rodriguez,2,2,0,Planeada
+Inventario AAM en Windows y MAC,124335,Adicionar extensiones,Done,Fernando Rodriguez,8,8,0,Planeada
+Inventario AAM en Windows y MAC,124357,Almacenar y agregar al inventario consumo CPU,Done,Fernando Rodriguez,1,0,0,Planeada
+Inventario AAM en Windows y MAC,124356,Calcular consumo CPU,Done,Fernando Rodriguez,4,4,0,Planeada
+Inventario AAM en Windows y MAC,124359,Calcular consumo Memoria,Done,Fernando Rodriguez,4,2,0,Planeada
+Inventario AAM en Windows y MAC,124358,Almacenar y agregar al inventario consumo Memoria,Done,Fernando Rodriguez,1,0,0,Planeada
+Inventario AAM en Windows y MAC,124378,Calcular consumo Disco Duro,Done,Fernando Rodriguez,4,1,0,Planeada
+Inventario AAM en Windows y MAC,124377,Almacenar y agregar al inventario consumo Disco Duro,Done,Fernando Rodriguez,1,0,0,Planeada
+Inventario AAM en Windows y MAC,124327,Generar inventario completo bajo demanda,Done,Fernando Rodriguez,2,1,0,Planeada
+Inventario AAM en Windows y MAC,124413,Revisión arquitectura agentes,Done,Fernando Rodriguez,1,15,0,Planeada
+Inventario AAM en Windows y MAC,124680,Diseño tablas APWM,Done,Fernando Rodriguez,15,15,0,No Planeada
+Inventario AAM en Windows y MAC,124701,Revisión watcher cierra agente,Done,Fernando Rodriguez,05,05,0,No Planeada
+Inventario AAM en Windows y MAC,124477,Planeación regresión completa,To Do,Harol Yesid Morera Camelo,8,,,Planeada
+Inventario AAM en Windows y MAC,124479,Planeación regresión priorizada,To Do,Harol Yesid Morera Camelo,8,,,Planeada
+Inventario AAM en Windows y MAC,123533,Prueba de la herramienta uipath en el modulo de politicas,In Progress,Harol Yesid Morera Camelo,8,8,,Planeada
+Inventario AAM en Windows y MAC,123535,Socializar la información levantada de uipath,To Do,Harol Yesid Morera Camelo,2,,,Planeada
+Inventario AAM en Windows y MAC,122655,Regla de actualizaciones,Done,Harol Yesid Morera Camelo,4,4,0,Planeada
+Inventario AAM en Windows y MAC,122646,Control remoto en win7 win8.1 y server 2016,Done,Harol Yesid Morera Camelo,8,4,0,Planeada
+Inventario AAM en Windows y MAC,124471,Actualizaciones aplicaciones,Done,Harol Yesid Morera Camelo,8,8,0,Planeada
+Inventario AAM en Windows y MAC,124472,Actualizaciones de S.O,Done,Harol Yesid Morera Camelo,8,4,0,Planeada
+Inventario AAM en Windows y MAC,124480,ADM - Error en pantalla de uso de software,Done,Harol Yesid Morera Camelo,2,2,0,Planeada
+Inventario AAM en Windows y MAC,124481,Valor por defecto en la configuración del repserver,Done,Harol Yesid Morera Camelo,2,2,0,Planeada
+Inventario AAM en Windows y MAC,124482,Planeación,Done,Harol Yesid Morera Camelo,6,4,0,Planeada
+Inventario AAM en Windows y MAC,124319,Reuniones diarias,To Do,Harol Yesid Morera Camelo,2,,,Planeada
+Inventario AAM en Windows y MAC,124320,Retrospectiva,To Do,Harol Yesid Morera Camelo,4,,,Planeada
+Inventario AAM en Windows y MAC,123455,Escenarios de pruebas,Done,Harol Yesid Morera Camelo,4,4,0,Planeada
+Inventario AAM en Windows y MAC,123518,Revisar matriz de funcionalidad y actualizar,In Progress,Harol Yesid Morera Camelo,25,075,125,Planeada
+Inventario AAM en Windows y MAC,123430,Agregar control de periodicidad para sección de power,To Do,Juan Gabriel Peña Rodriguez,2,,2,Planeada
+Inventario AAM en Windows y MAC,123508,Crear pestaña de servicios en software,To Do,Juan Gabriel Peña Rodriguez,2,,2,Planeada
+Inventario AAM en Windows y MAC,123509,Creación de listado de servicios,To Do,Juan Gabriel Peña Rodriguez,2,,2,Planeada
+Inventario AAM en Windows y MAC,123510,Creación de servicio,To Do,Juan Gabriel Peña Rodriguez,6,,6,Planeada
+Inventario AAM en Windows y MAC,124591,Creación del tab para menú configuraciones,Done,Juan Gabriel Peña Rodriguez,05,05,0,Planeada
+Inventario AAM en Windows y MAC,124592,Creación de la arquitectura para la pantalla de la configuración de ping,Done,Juan Gabriel Peña Rodriguez,05,05,0,Planeada
+Inventario AAM en Windows y MAC,124593,Configuración del archivo ini.js,Done,Juan Gabriel Peña Rodriguez,05,05,0,Planeada
+Inventario AAM en Windows y MAC,124594,Creacion de modelos y colecciones para la pantalla,Done,Juan Gabriel Peña Rodriguez,1,1,0,Planeada
+Inventario AAM en Windows y MAC,124595,Creacion del controlador que tendra la logica para la pantalla,Done,Juan Gabriel Peña Rodriguez,1,1,0,Planeada
+Inventario AAM en Windows y MAC,124596,Ajuste de los templates para la unificación en ADM,Done,Juan Gabriel Peña Rodriguez,1,1,0,Planeada
+Inventario AAM en Windows y MAC,124597,Cambio de imágenes por iconos,Done,Juan Gabriel Peña Rodriguez,05,05,0,Planeada
+Inventario AAM en Windows y MAC,124598,Ajuste de logica en el controlador para la unificacion con ADM,Done,Juan Gabriel Peña Rodriguez,1,1,0,Planeada
+Inventario AAM en Windows y MAC,124599,Unificacion de la vista en ADM,Done,Juan Gabriel Peña Rodriguez,1,1,0,Planeada
+Inventario AAM en Windows y MAC,124600,Unificacion del modelo en ADM,Done,Juan Gabriel Peña Rodriguez,1,1,0,Planeada
+Inventario AAM en Windows y MAC,124601,Unificacion del controlador en ADM,Done,Juan Gabriel Peña Rodriguez,1,1,0,Planeada
+Inventario AAM en Windows y MAC,124602,Mock de la respuesta del servicio,Done,Juan Gabriel Peña Rodriguez,2,2,0,Planeada
+Inventario AAM en Windows y MAC,124603,Ajuste de estilos para la pantalla,Done,Juan Gabriel Peña Rodriguez,05,05,0,Planeada
+Inventario AAM en Windows y MAC,124604,Acción de guardado de la información,Done,Juan Gabriel Peña Rodriguez,1,1,0,Planeada
+Inventario AAM en Windows y MAC,124605,Acción de cancelar,Done,Juan Gabriel Peña Rodriguez,1,1,0,Planeada
+Inventario AAM en Windows y MAC,124606,Creación de rama creación de pull request,Done,Juan Gabriel Peña Rodriguez,05,05,0,Planeada
+Inventario AAM en Windows y MAC,124569,Creacion del tab para menu configuraciones,Done,Juan Gabriel Peña Rodriguez,05,05,0,Planeada
+Inventario AAM en Windows y MAC,124570,Creación de la arquitectura para la pantalla de plantillas,Done,Juan Gabriel Peña Rodriguez,05,05,0,Planeada
+Inventario AAM en Windows y MAC,124571,Configuracion del archivo ini.js,Done,Juan Gabriel Peña Rodriguez,1,1,0,Planeada
+Inventario AAM en Windows y MAC,124572,Creacion de modelos y colecciones para la pantalla,Done,Juan Gabriel Peña Rodriguez,1,1,0,Planeada
+Inventario AAM en Windows y MAC,124573,Creacion del controlador que tendra la logica para la pantalla,Done,Juan Gabriel Peña Rodriguez,2,2,0,Planeada
+Inventario AAM en Windows y MAC,124574,Ajuste de los templates para la unificacion en ADM - Vinculacion,To Do,Juan Gabriel Peña Rodriguez,2,,2,Planeada
+Inventario AAM en Windows y MAC,124575,Ajuste de los templates para la unificacion en ADM - Bienvenida,To Do,Juan Gabriel Peña Rodriguez,1,,1,Planeada
+Inventario AAM en Windows y MAC,124576,Ajuste de los templates para la unificación en ADM - Recordatorio de clave,To Do,Juan Gabriel Peña Rodriguez,1,,1,Planeada
+Inventario AAM en Windows y MAC,124577,Ajuste de los templates para la unificacion en ADM - Terminos y condiciones,To Do,Juan Gabriel Peña Rodriguez,2,,2,Planeada
+Inventario AAM en Windows y MAC,124578,Ajuste de los templates para la unificacion en ADM - Aplicaciones,To Do,Juan Gabriel Peña Rodriguez,2,,2,Planeada
+Inventario AAM en Windows y MAC,124579,Revisar la version de Kendo para la utilización del componente 'Editor',To Do,Juan Gabriel Peña Rodriguez,3,,3,Planeada
+Inventario AAM en Windows y MAC,124580,Cambio de imagenes por iconos,To Do,Juan Gabriel Peña Rodriguez,1,,1,Planeada
+Inventario AAM en Windows y MAC,124581,Ajuste de logica en el controlador para la unificacion con ADM,Done,Juan Gabriel Peña Rodriguez,1,1,0,Planeada
+Inventario AAM en Windows y MAC,124582,Unificacion de la vista en ADM,To Do,Juan Gabriel Peña Rodriguez,2,2,0,Planeada
+Inventario AAM en Windows y MAC,124583,Unificacion del modelo en ADM,To Do,Juan Gabriel Peña Rodriguez,2,,2,Planeada
+Inventario AAM en Windows y MAC,124584,Unificacion del controlador en ADM,To Do,Juan Gabriel Peña Rodriguez,2,,2,Planeada
+Inventario AAM en Windows y MAC,124585,Ajuste de estilos para la pantalla,To Do,Juan Gabriel Peña Rodriguez,1,,1,Planeada
+Inventario AAM en Windows y MAC,124586,Mock de la respuesta del servicio,To Do,Juan Gabriel Peña Rodriguez,3,,3,Planeada
+Inventario AAM en Windows y MAC,124587,Accion de guardado de la informacion,To Do,Juan Gabriel Peña Rodriguez,3,,3,Planeada
+Inventario AAM en Windows y MAC,124588,Accion de cancelar,To Do,Juan Gabriel Peña Rodriguez,1,,1,Planeada
+Inventario AAM en Windows y MAC,124589,Creacion de rama creacion de pull request,Done,Juan Gabriel Peña Rodriguez,05,05,0,Planeada
+Inventario AAM en Windows y MAC,124564,Analisis del codigo de AEMM,Done,Juan Gabriel Peña Rodriguez,1,1,0,Planeada
+Inventario AAM en Windows y MAC,124565,Revision de la ubicacion de los archivos Vistas Controladores Modelos Colecciones Estilos y puntos de entrada,Done,Juan Gabriel Peña Rodriguez,1,1,0,Planeada
+Inventario AAM en Windows y MAC,124566,Creacion de estrategia para hacer la integracion,Done,Juan Gabriel Peña Rodriguez,1,1,0,Planeada
+Inventario AAM en Windows y MAC,124567,Determinar que parte del codigo se va a reutilizar dependiendo de la pantalla,Done,Juan Gabriel Peña Rodriguez,2,2,0,Planeada
+Inventario AAM en Windows y MAC,124613,Revisión bug,Done,Juan Gabriel Peña Rodriguez,3,3,0,Planeada
+Inventario AAM en Windows y MAC,124612,Revisión bug,Done,Juan Gabriel Peña Rodriguez,5,8,0,Planeada
+Inventario AAM en Windows y MAC,124607,Revisión de código,In Progress,Juan Gabriel Peña Rodriguez,25,075,175,Planeada
+Inventario AAM en Windows y MAC,124608,Planeación,Done,Juan Gabriel Peña Rodriguez,6,6,0,Planeada
+Inventario AAM en Windows y MAC,124609,Reuniones diarias,In Progress,Juan Gabriel Peña Rodriguez,25,075,175,Planeada
+Inventario AAM en Windows y MAC,124610,Retrospectiva,To Do,Juan Gabriel Peña Rodriguez,3,,3,Planeada
+Inventario AAM en Windows y MAC,124611,Reunión Front UX,To Do,Juan Gabriel Peña Rodriguez,3,,3,Planeada
+Inventario AAM en Windows y MAC,124559,Lectura de política de energía,To Do,Katherine Florez,4,,4,Planeada
+Inventario AAM en Windows y MAC,124560,Asignación política de energía,To Do,Katherine Florez,4,,4,Planeada
+Inventario AAM en Windows y MAC,124561,Activación bloquedo de USB,To Do,Katherine Florez,2,,2,Planeada
+Inventario AAM en Windows y MAC,124350,Planeación,Done,Katherine Florez,6,7,0,Planeada
+Inventario AAM en Windows y MAC,124351,Reuniones diarias,In Progress,Katherine Florez,2,075,125,Planeada
+Inventario AAM en Windows y MAC,124352,Retrospectiva,To Do,Katherine Florez,4,,4,Planeada
+Inventario AAM en Windows y MAC,124557,Eliminar plan de energía para versión menor a windows 7,To Do,Katherine Florez,4,,4,Planeada
+Inventario AAM en Windows y MAC,124524,Definición tablas APWM,Done,Katherine Florez,2,2,0,Planeada
+Inventario AAM en Windows y MAC,124525,Creación tablas APWM SQLITE,Done,Katherine Florez,4,5,0,Planeada
+Inventario AAM en Windows y MAC,124526,Documentación entidad-elemento tablas APWM,Done,Katherine Florez,1,1,0,Planeada
+Inventario AAM en Windows y MAC,124527,Modificar uso de base de datos en APWM,Done,Katherine Florez,4,4,0,Planeada
+Inventario AAM en Windows y MAC,124528,Creación nuevos action code,To Do,Katherine Florez,1,05,05,Planeada
+Inventario AAM en Windows y MAC,124529,Creación nueva estructura módulo APWM,Done,Katherine Florez,1,05,0,Planeada
+Inventario AAM en Windows y MAC,124530,Lectura del perfil,Done,Katherine Florez,4,4,0,Planeada
+Inventario AAM en Windows y MAC,124532,Validación del scheduler,To Do,Katherine Florez,2,,2,Planeada
+Inventario AAM en Windows y MAC,124533,Revisión separación descarga de políticas de envió de inventario,Done,Katherine Florez,6,8,0,Planeada
+Inventario AAM en Windows y MAC,124534,Nuevo flujo de descarga de politicas,In Progress,Katherine Florez,4,3,1,Planeada
+Inventario AAM en Windows y MAC,124535,Lectura de politica,To Do,Katherine Florez,4,,4,Planeada
+Inventario AAM en Windows y MAC,124536,Alamacenar en base de datos,To Do,Katherine Florez,4,,4,Planeada
+Inventario AAM en Windows y MAC,124537,Activación submódulos,To Do,Katherine Florez,4,,4,Planeada
+Inventario AAM en Windows y MAC,124434,Revisión arquitectura agentes,Done,Katherine Florez,15,15,0,Planeada
+Inventario AAM en Windows y MAC,124417,Revisión de código,In Progress,Katherine Florez,25,15,1,Planeada
+Inventario AAM en Windows y MAC,124679,Cambios tabla APWM,Done,Katherine Florez,2,4,0,No Planeada
+Inventario AAM en Windows y MAC,123536,Socializar la información levantada de uipath,To Do,Luis Alfredo Leon Britto,2,,,Planeada
+Inventario AAM en Windows y MAC,124311,Planeación,To Do,Luis Alfredo Leon Britto,6,,,Planeada
+Inventario AAM en Windows y MAC,124307,Coding Dojo,Done,Luis Alfredo Leon Britto,2,2,0,Planeada
+Inventario AAM en Windows y MAC,124312,Reuniones diarias,In Progress,Luis Alfredo Leon Britto,2,,,Planeada
+Inventario AAM en Windows y MAC,124313,Restrospectiva,To Do,Luis Alfredo Leon Britto,3,,,Planeada
+Inventario AAM en Windows y MAC,124314,Seguimiento ADM,To Do,Luis Alfredo Leon Britto,2,,,Planeada
+Inventario AAM en Windows y MAC,123503,Socialización con las pruebas que ya se realizaron del cruncher,Done,Luis Alfredo Leon Britto,2,2,0,Planeada
+Inventario AAM en Windows y MAC,124476,Planeación regresión completa,To Do,Omar Alfonso Diaz Puerto,8,,8,Planeada
+Inventario AAM en Windows y MAC,124478,Planeación regresión priorizada,To Do,Omar Alfonso Diaz Puerto,8,,8,Planeada
+Inventario AAM en Windows y MAC,123532,Prueba de concepto de la herramienta de uipath con Distribución,To Do,Omar Alfonso Diaz Puerto,8,,8,Planeada
+Inventario AAM en Windows y MAC,123534,Socializar la información levantada de uipath,To Do,Omar Alfonso Diaz Puerto,2,,2,Planeada
+Inventario AAM en Windows y MAC,122668,Control remoto en win10 win8 y server 2012,To Do,Omar Alfonso Diaz Puerto,8,7,1,Planeada
+Inventario AAM en Windows y MAC,124467,Actualizaciones de Office,In Progress,Omar Alfonso Diaz Puerto,8,8,0,Planeada
+Inventario AAM en Windows y MAC,124469,Actualizaciones de SQL,In Progress,Omar Alfonso Diaz Puerto,8,8,0,Planeada
+Inventario AAM en Windows y MAC,124450,122849 - Pantalla Uso de Software- Los filtros no se visualizan correctamente,To Do,Omar Alfonso Diaz Puerto,2,2,0,Planeada
+Inventario AAM en Windows y MAC,124451,122850 - Pantalla Uso de software - No se visualiza correctamente el usuario,To Do,Omar Alfonso Diaz Puerto,2,2,0,Planeada
+Inventario AAM en Windows y MAC,124452,113671 - Regla de Actualizaciones- No se realiza al acción de 'Programar descarga de actualizaciones',To Do,Omar Alfonso Diaz Puerto,2,2,0,Planeada
+Inventario AAM en Windows y MAC,124453,123659- Cuando el Repserver esta caido el conserver falla y hace que la memoria suba al 90%,To Do,Omar Alfonso Diaz Puerto,2,,2,Planeada
+Inventario AAM en Windows y MAC,124465,123907- Agente - La ejecución termina correctamente pero vuelve a iniciar,To Do,Omar Alfonso Diaz Puerto,2,2,0,Planeada
+Inventario AAM en Windows y MAC,124421,Planeración,Done,Omar Alfonso Diaz Puerto,6,4,0,Planeada
+Inventario AAM en Windows y MAC,124422,Retrospectiva,To Do,Omar Alfonso Diaz Puerto,4,,4,Planeada
+Inventario AAM en Windows y MAC,124423,Reuniones diarias,To Do,Omar Alfonso Diaz Puerto,2,,2,Planeada
+Inventario AAM en Windows y MAC,123392,Generar casos de pruebas,To Do,Omar Alfonso Diaz Puerto,4,,4,Planeada
+Inventario AAM en Windows y MAC,123427,Escenarios de pruebas,To Do,Omar Alfonso Diaz Puerto,3,,3,Planeada
+Inventario AAM en Windows y MAC,123517,Revisar matriz de funcionalidad y actualizar,To Do,Omar Alfonso Diaz Puerto,25,,25,Planeada
+Inventario AAM en Windows y MAC,124803,Bug base de datos SOCI,Done,Fernando Rodriguez,25,25,0,No Planeada
+Inventario AAM en Windows y MAC,124839,Almacenar en base de datos,To Do,Fernando Rodriguez,5,0,5,No Planeada
+Inventario AAM en Windows y MAC,124520,Documentación técnica,To Do,Fernando Rodriguez,8,0,8,Planeada
+Inventario AAM en Windows y MAC,124868,Generar archivo encriptado,To Do,Fernando Rodriguez,5,0,5,No Planeada
+Inventario AAM en Windows y MAC,124805,Desarrollo Cambio typo de variables NetworkAdapterInfo,Done,Dustin Sley Pinedo Hernandez,3,35,0,No Planeada
+Inventario AAM en Windows y MAC,124812,Error Servidor Linux de complicación,Done,Dustin Sley Pinedo Hernandez,05,05,0,No Planeada
+Inventario en JSON,123338,planeación,Done,Angelica Maria Granados Campos,6,7,0,Planeada
+Inventario en JSON,123514,Crear estructura para la información,Done,Angelica Maria Granados Campos,2,3,0,Planeada
+Inventario en JSON,123515,Crear inventario de archivos con posible ubicacion,Done,Angelica Maria Granados Campos,8,6,0,Planeada
+Inventario en JSON,123527,Estudiar los 3 .bat para levantar la informacion necesario para realizar el HOW TO,Done,Angelica Maria Granados Campos,4,6,0,Planeada
+Inventario en JSON,123347,reuniones diarias,To Do,Angelica Maria Granados Campos,25,,25,Planeada
+Inventario en JSON,123369,Retrospectiva,To Do,Angelica Maria Granados Campos,3,,3,Planeada
+Inventario en JSON,123523,Socializar información recopilada de los archivos,To Do,Angelica Maria Granados Campos,2,,2,Planeada
+Inventario en JSON,123528,Crear un How To de los pasos necesarios para actualizar el agente muanlmente en caso de falla,In Progress,Angelica Maria Granados Campos,1,5,0,Planeada
+Inventario en JSON,123529,Socializar el How To de pasos para el instalar un agente en caso de fallas,To Do,Angelica Maria Granados Campos,1,,1,Planeada
+Inventario en JSON,124047,Estudiar Base de datos entidad de relación,Done,Angelica Maria Granados Campos,4,4,0,No Planeada
+Inventario en JSON,124048,Diagrama de base datos,Done,Angelica Maria Granados Campos,8,8,0,No Planeada
+Inventario en JSON,124227,Estudiar consultas base de datos,Done,Angelica Maria Granados Campos,4,4,0,No Planeada
+Inventario en JSON,124228,Hacer consultas base de datos,Done,Angelica Maria Granados Campos,8,8,0,No Planeada
+Inventario en JSON,123333,planeación,Done,Brayan Eduardo Camacho Pacheco,6,7,0,Planeada
+Inventario en JSON,122685,Merge de base datos,Done,Brayan Eduardo Camacho Pacheco,4,4,0,Planeada
+Inventario en JSON,122686,Integración DBTools,Done,Brayan Eduardo Camacho Pacheco,4,4,0,Planeada
+Inventario en JSON,122689,Pruebas generales,Done,Brayan Eduardo Camacho Pacheco,4,6,0,Planeada
+Inventario en JSON,123351,Revisión de código,In Progress,Brayan Eduardo Camacho Pacheco,25,22,025,Planeada
+Inventario en JSON,123340,reuniones diarias,In Progress,Brayan Eduardo Camacho Pacheco,25,225,025,Planeada
+Inventario en JSON,123361,Retrospectiva,To Do,Brayan Eduardo Camacho Pacheco,3,,3,Planeada
+Inventario en JSON,123414,Definición tags inventario json,Done,Brayan Eduardo Camacho Pacheco,3,8,0,Planeada
+Inventario en JSON,123482,Lectura y deserialización archivo archivo JSON,Done,Brayan Eduardo Camacho Pacheco,2,8,0,Planeada
+Inventario en JSON,123484,Creación de archivo con la información consolidada,Done,Brayan Eduardo Camacho Pacheco,8,8,0,Planeada
+Inventario en JSON,123485,Manejo de excepciones de archivos,Done,Brayan Eduardo Camacho Pacheco,8,8,0,Planeada
+Inventario en JSON,123487,Creación de interfaz para abstracciones de manejo de lista de dependencias,Done,Brayan Eduardo Camacho Pacheco,6,8,0,Planeada
+Inventario en JSON,123488,Creación de interfaz para abstracciones de manejo de lista editar borrar y crear,In Progress,Brayan Eduardo Camacho Pacheco,8,2,6,Planeada
+Inventario en JSON,123489,Armado de logica de listas transaccionales software,To Do,Brayan Eduardo Camacho Pacheco,8,,8,Planeada
+Inventario en JSON,123501,Socialización con las pruebas que ya se realizaron del cruncher,To Do,Brayan Eduardo Camacho Pacheco,2,,2,Planeada
+Inventario en JSON,123486,Creación de entidades con relaciones,To Do,Brayan Eduardo Camacho Pacheco,8,8,0,Planeada
+Inventario en JSON,123378,desactivar el inventario incremental si se desactiva el inventario completo,Done,Cristian Carvajal Bahamon,3,1,0,Planeada
+Inventario en JSON,123541,Solucion Bug 123282,Done,Cristian Carvajal Bahamon,2,4,0,Planeada
+Inventario en JSON,123335,planeación,Done,Cristian Carvajal Bahamon,6,7,0,Planeada
+Inventario en JSON,123398,No dejar guardar con una fecha y hora anterior y posterior a 30 minutos en tarea AFL,Done,Cristian Carvajal Bahamon,1,25,0,Planeada
+Inventario en JSON,123406,Realizar procedimiento para migrar el perfil del agente con la opción de obtener inventario inactiva,Done,Cristian Carvajal Bahamon,4,25,0,Planeada
+Inventario en JSON,123426,Modificar servicio en hardware y catalogo para recibir multiples inventarios,Done,Cristian Carvajal Bahamon,4,3,0,Planeada
+Inventario en JSON,123355,Revisión de código,In Progress,Cristian Carvajal Bahamon,25,25,0,Planeada
+Inventario en JSON,123344,reuniones diarias,In Progress,Cristian Carvajal Bahamon,25,25,0,Planeada
+Inventario en JSON,123365,Retrospectiva,To Do,Cristian Carvajal Bahamon,3,4,0,Planeada
+Inventario en JSON,123376,Restricción en back para el tiempo de inventario afl,Done,Cristian Carvajal Bahamon,4,45,0,Planeada
+Inventario en JSON,123432,Recibir datos almacenar en base de datos y enviar al agente la información de APWM,In Progress,Cristian Carvajal Bahamon,4,1,0,Planeada
+Inventario en JSON,123435,Modificar servicio para enviar si el dispositivo cuenta con configuración de política,Done,Cristian Carvajal Bahamon,4,4,0,Planeada
+Inventario en JSON,123439,Modificar servicio para enviar si el grupo cuenta con configuración de política,Done,Cristian Carvajal Bahamon,2,4,0,Planeada
+Inventario en JSON,123458,Crear servicio para eliminar múltiples políticas,Done,Cristian Carvajal Bahamon,3,4,0,Planeada
+Inventario en JSON,123459,Enviar señal a través de MQTT,Done,Cristian Carvajal Bahamon,5,7,0,Planeada
+Inventario en JSON,123490,Armado de logica de listas transaccionales hardware,To Do,Cristian Carvajal Bahamon,8,0,8,Planeada
+Inventario en JSON,123493,Modificar tablas de timeline para agregar informacion sin Id,Done,Cristian Carvajal Bahamon,1,1,0,Planeada
+Inventario en JSON,123494,Crear script de migracion que lea los id y llene la informacion de la tabla,Done,Cristian Carvajal Bahamon,1,1,0,Planeada
+Inventario en JSON,123495,Modificar las entidades y los mappers,Done,Cristian Carvajal Bahamon,1,1,0,Planeada
+Inventario en JSON,123496,Crear logica para el procesamiento del timeline,Done,Cristian Carvajal Bahamon,4,2,0,Planeada
+Inventario en JSON,123502,Socialización con las pruebas que ya se realizaron del cruncher,To Do,Cristian Carvajal Bahamon,2,0,2,Planeada
+Inventario en JSON,123648,Pruebas Control Remoto,Done,Cristian Carvajal Bahamon,8,4,0,No Planeada
+Inventario en JSON,123661,Revisión bug 123659,Done,Cristian Carvajal Bahamon,1,15,0,No Planeada
+Inventario en JSON,124052,Analisis de log agente alcaldia de medellin,Done,Cristian Carvajal Bahamon,1,1,0,No Planeada
+Inventario en JSON,124079,Solucion Bug 123659,Done,Cristian Carvajal Bahamon,6,6,0,No Planeada
+Inventario en JSON,124231,Refactoring - Constantes en servicios,Done,Cristian Carvajal Bahamon,4,4,0,No Planeada
+Inventario en JSON,123332,planeación,Done,Dustin Sley Pinedo Hernandez,6,7,0,Planeada
+Inventario en JSON,123525,Pruebas cliente vnc de un tercero,Done,Dustin Sley Pinedo Hernandez,4,3,0,Planeada
+Inventario en JSON,123353,Revisión de código,In Progress,Dustin Sley Pinedo Hernandez,25,26,015,Planeada
+Inventario en JSON,123342,reuniones diarias,In Progress,Dustin Sley Pinedo Hernandez,25,225,025,Planeada
+Inventario en JSON,123408,Agregar cpp.json a las dependencias,Done,Dustin Sley Pinedo Hernandez,4,9,0,Planeada
+Inventario en JSON,123413,Definición tags inventario json,Done,Dustin Sley Pinedo Hernandez,3,3,0,Planeada
+Inventario en JSON,123624,Prueba unitaria cpp.json,Done,Dustin Sley Pinedo Hernandez,2,45,0,No Planeada
+Inventario en JSON,123363,Retrospectiva,To Do,Dustin Sley Pinedo Hernandez,3,45,0,Planeada
+Inventario en JSON,123407,El perfil que tenga la opción de inventario al inicio deshabilitarlo,To Do,Dustin Sley Pinedo Hernandez,3,,3,Planeada
+Inventario en JSON,123410,Desarrollo Clase Factory,In Progress,Dustin Sley Pinedo Hernandez,6,7,0,Planeada
+Inventario en JSON,123411,Documentación técnica,To Do,Dustin Sley Pinedo Hernandez,2,,2,Planeada
+Inventario en JSON,123412,Creación Interfaz factory,Done,Dustin Sley Pinedo Hernandez,3,3,0,Planeada
+Inventario en JSON,123415,Desarrollo Inventario ID related,In Progress,Dustin Sley Pinedo Hernandez,7,05,65,Planeada
+Inventario en JSON,123416,Desarrollo Inventario HW Related,To Do,Dustin Sley Pinedo Hernandez,8,,8,Planeada
+Inventario en JSON,123417,Desarrollo Inventario SW Related,To Do,Dustin Sley Pinedo Hernandez,6,,6,Planeada
+Inventario en JSON,123418,Prueba unitaria crear inventario,In Progress,Dustin Sley Pinedo Hernandez,4,1,3,Planeada
+Inventario en JSON,123419,Documentación técnica del inventario en json,To Do,Dustin Sley Pinedo Hernandez,2,,2,Planeada
+Inventario en JSON,123699,Actualizar Dependencias en servidores,Done,Dustin Sley Pinedo Hernandez,5,15,0,No Planeada
+Inventario en JSON,123762,Prueba patch y revision ASD con APM,Done,Dustin Sley Pinedo Hernandez,2,2,0,No Planeada
+Inventario en JSON,123909,Revisión distribución patch,Done,Dustin Sley Pinedo Hernandez,5,5,0,No Planeada
+Inventario en JSON,123910,Revisión retry configurable,Done,Dustin Sley Pinedo Hernandez,05,05,0,No Planeada
+Inventario en JSON,123911,Revision notificaciones patch,Done,Dustin Sley Pinedo Hernandez,1,1,0,No Planeada
+Inventario en JSON,123912,Revision Interacción STD,Done,Dustin Sley Pinedo Hernandez,4,4,0,No Planeada
+Inventario en JSON,123948,Solucion Bug ASD - Patch,Done,Dustin Sley Pinedo Hernandez,3,3,0,No Planeada
+Inventario en JSON,124244,Error enlazado de simbolos,Done,Dustin Sley Pinedo Hernandez,3,3,0,No Planeada
+Inventario en JSON,123330,planeación,Done,Fernando Rodriguez,6,7,0,Planeada
+Inventario en JSON,123386,Reemplazar métodos preexistentes,Done,Fernando Rodriguez,6,8,0,Planeada
+Inventario en JSON,123387,Flujo de eventos,Done,Fernando Rodriguez,6,12,0,Planeada
+Inventario en JSON,123350,Revisión de código,Done,Fernando Rodriguez,25,25,0,Planeada
+Inventario en JSON,123339,reuniones diarias,Done,Fernando Rodriguez,25,25,0,Planeada
+Inventario en JSON,123360,Retrospectiva,Done,Fernando Rodriguez,3,4,0,Planeada
+Inventario en JSON,123379,Diagrama estructura AFL,Done,Fernando Rodriguez,4,5,0,Planeada
+Inventario en JSON,123380,Estructura para escanear AFL,Done,Fernando Rodriguez,8,8,0,Planeada
+Inventario en JSON,123381,Desarrollo AFLInventoryStep,Done,Fernando Rodriguez,8,9,0,Planeada
+Inventario en JSON,123382,Estructura FileHarvester,Done,Fernando Rodriguez,8,8,0,Planeada
+Inventario en JSON,123383,Estructura para integrar futuras funcionalidades de API,To Do,Fernando Rodriguez,4,,4,Planeada
+Inventario en JSON,123384,Serializar AFL,To Do,Fernando Rodriguez,2,,2,Planeada
+Inventario en JSON,123385,Generar inventario JSON,To Do,Fernando Rodriguez,2,,2,Planeada
+Inventario en JSON,123389,Programar para evitar alto consumo de cpu,Done,Fernando Rodriguez,6,4,0,Planeada
+Inventario en JSON,123390,Optimizar ejecución,Done,Fernando Rodriguez,6,4,0,Planeada
+Inventario en JSON,123391,Lista por defecto,Done,Fernando Rodriguez,2,1,0,Planeada
+Inventario en JSON,123559,Solución compilación de release/9.6.1 a dev,Done,Fernando Rodriguez,1,1,0,No Planeada
+Inventario en JSON,123688,Prueba concepto API Event Log,Done,Fernando Rodriguez,3,3,0,No Planeada
+Inventario en JSON,123764,Revisión ActionRunnerTest,Done,Fernando Rodriguez,1,1,0,No Planeada
+Inventario en JSON,123336,planeación,Done,Harol Yesid Morera Camelo,6,7,0,Planeada
+Inventario en JSON,123538,actualizar notas de release,Done,Harol Yesid Morera Camelo,4,4,0,Planeada
+Inventario en JSON,123533,Prueba de la herramienta uipath en el modulo de politicas,To Do,Harol Yesid Morera Camelo,8,,8,Planeada
+Inventario en JSON,123535,Socializar la información levantada de uipath,To Do,Harol Yesid Morera Camelo,2,,2,Planeada
+Inventario en JSON,122694,Actualizaciones aplicaciones,Done,Harol Yesid Morera Camelo,8,35,0,Planeada
+Inventario en JSON,122698,Actualizaciones de S.O,Done,Harol Yesid Morera Camelo,8,4,0,Planeada
+Inventario en JSON,122655,Regla de actualizaciones,To Do,Harol Yesid Morera Camelo,4,,4,Planeada
+Inventario en JSON,122646,Control remoto en win7 win8.1 y server 2016,To Do,Harol Yesid Morera Camelo,8,,8,Planeada
+Inventario en JSON,123345,reuniones diarias,In Progress,Harol Yesid Morera Camelo,25,25,0,Planeada
+Inventario en JSON,123367,Retrospectiva,To Do,Harol Yesid Morera Camelo,3,,3,Planeada
+Inventario en JSON,123399,Escenarios de pruebas para la historia de usuario de inventario completo de forma manual,Done,Harol Yesid Morera Camelo,4,6,0,Planeada
+Inventario en JSON,123420,Escenarios de pruebas de inventario AAM,Done,Harol Yesid Morera Camelo,4,4,0,Planeada
+Inventario en JSON,123455,Escenarios de pruebas crear política,In Progress,Harol Yesid Morera Camelo,4,4,2,Planeada
+Inventario en JSON,123518,Revisar matriz de funcionalidad y actualizar,To Do,Harol Yesid Morera Camelo,25,,25,Planeada
+Inventario en JSON,123542,Realizar la revisión de las Sugs para ver cuales aplican y cuales no,Done,Harol Yesid Morera Camelo,8,8,0,Planeada
+Inventario en JSON,123337,planeación,Done,Juan Gabriel Peña Rodriguez,6,7,0,Planeada
+Inventario en JSON,123358,Revisión de código,Done,Juan Gabriel Peña Rodriguez,25,25,0,Planeada
+Inventario en JSON,123346,reuniones diarias,Done,Juan Gabriel Peña Rodriguez,25,225,025,Planeada
+Inventario en JSON,123397,Retrospectiva,To Do,Juan Gabriel Peña Rodriguez,3,,3,Planeada
+Inventario en JSON,123375,Restricción en front para el tiempo de inventario afl,Done,Juan Gabriel Peña Rodriguez,3,6,0,Planeada
+Inventario en JSON,123377,desactivar el inventario incremental si se desactiva el inventario completo,Done,Juan Gabriel Peña Rodriguez,1,4,0,Planeada
+Inventario en JSON,123396,Modificar mensaje al ejecutar acciones desde dispositivos hardware y catalogo,Done,Juan Gabriel Peña Rodriguez,1,3,0,Planeada
+Inventario en JSON,123397,No dejar guardar con una fecha y hora anterior y posterior a 30 minutos en tarea AFL,Done,Juan Gabriel Peña Rodriguez,2,4,0,Planeada
+Inventario en JSON,123404,Quitar opción de obtener inventario al inicio de sesión,Done,Juan Gabriel Peña Rodriguez,1,2,0,Planeada
+Inventario en JSON,123425,Modificar control en la sección de hardware y catalogo para enviar múltiples inventarios,Done,Juan Gabriel Peña Rodriguez,4,6,0,Planeada
+Inventario en JSON,123430,Agregar control de periodicidad para sección de power,To Do,Juan Gabriel Peña Rodriguez,2,,2,Planeada
+Inventario en JSON,123433,Modificar plantilla en agregar nuevos dispositivos para mostrar etiqueta con información de política,Done,Juan Gabriel Peña Rodriguez,1,1,0,Planeada
+Inventario en JSON,123436,Modificar plantilla en agregar nuevos grupos para mostrar etiqueta con información de política,Done,Juan Gabriel Peña Rodriguez,1,1,0,Planeada
+Inventario en JSON,123456,Agregar opción de seleccionar todos en políticas,Done,Juan Gabriel Peña Rodriguez,1,4,0,Planeada
+Inventario en JSON,123457,Agregar acción de eliminar politica y pasar a servicio,Done,Juan Gabriel Peña Rodriguez,3,5,0,Planeada
+Inventario en JSON,123508,Crear pestaña de servicios en software,To Do,Juan Gabriel Peña Rodriguez,2,,2,Planeada
+Inventario en JSON,123509,Creación de listado de servicios,To Do,Juan Gabriel Peña Rodriguez,2,,2,Planeada
+Inventario en JSON,123510,Creación de servicio,To Do,Juan Gabriel Peña Rodriguez,6,,6,Planeada
+Inventario en JSON,124001,Actualización de NodeJS,Done,Juan Gabriel Peña Rodriguez,5,5,0,No Planeada
+Inventario en JSON,4943,Solicion de comentarios para el PR - 4943,Done,Juan Gabriel Peña Rodriguez,1,1,0,No Planeada
+Inventario en JSON,4965,Solicion de comentarios para el PR - 4965,Done,Juan Gabriel Peña Rodriguez,3,3,0,No Planeada
+Inventario en JSON,124197,Revisión de ramas,Done,Juan Gabriel Peña Rodriguez,2,2,0,No Planeada
+Inventario en JSON,124225,Cambio de plantilla en AFL,Done,Juan Gabriel Peña Rodriguez,2,2,0,No Planeada
+Inventario en JSON,123908,Distribución - Al actualizar la vista de actividad se debe actualizar la lista de ejecuciones,Done,Juan Gabriel Peña Rodriguez,3,3,0,No Planeada
+Inventario en JSON,123949,Perfil de agente- No se permite agregar una nueva extension a escanear,In Progress,Juan Gabriel Peña Rodriguez,6,4,0,No Planeada
+Inventario en JSON,124226,Corrección de servicio para obtener datos de Perfil de agente,Done,Juan Gabriel Peña Rodriguez,3,3,0,No Planeada
+Inventario en JSON,123331,planeación,Done,Katherine Florez,6,7,0,Planeada
+Inventario en JSON,123352,Revisión de código,In Progress,Katherine Florez,25,22,03,Planeada
+Inventario en JSON,123341,reuniones diarias,In Progress,Katherine Florez,25,225,025,Planeada
+Inventario en JSON,123614,Revisión visor de eventos para detección del apagado,Done,Katherine Florez,8,9,0,No Planeada
+Inventario en JSON,123362,Retrospectiva,To Do,Katherine Florez,3,,3,Planeada
+Inventario en JSON,123461,Definición de etiquetas de inventario APWM,To Do,Katherine Florez,2,,2,Planeada
+Inventario en JSON,123462,Definición de las tablas,To Do,Katherine Florez,4,,4,Planeada
+Inventario en JSON,123466,Revisión código para leer la información del perfil del agente,Done,Katherine Florez,3,3,0,Planeada
+Inventario en JSON,123467,Refactorizar el código para tomar la configuración del perfil y generar el inventario a hora especifica,Done,Katherine Florez,8,5,0,Planeada
+Inventario en JSON,123468,Revisar como recibir la señal por MQTT y crear la abstracción la acción hasta APWM,To Do,Katherine Florez,4,,4,Planeada
+Inventario en JSON,123469,Crear inventario en la fecha y hora solicitada,Done,Katherine Florez,3,3,0,Planeada
+Inventario en JSON,123470,Revisión consulta servicio de Windows de cambio de estado,Done,Katherine Florez,4,4,0,Planeada
+Inventario en JSON,123471,Validación de registro en Base de datos,In Progress,Katherine Florez,8,8,1,Planeada
+Inventario en JSON,123472,Pruebas unitarias de la consulta a la api de energia,To Do,Katherine Florez,2,,2,Planeada
+Inventario en JSON,123473,Revisar y detener a partir de los procesos,To Do,Katherine Florez,8,2,6,Planeada
+Inventario en JSON,123474,Incremento de contador para cada software bloqueado,To Do,Katherine Florez,4,,4,Planeada
+Inventario en JSON,123475,Pruebas de obtener y bloquear software desde procesos,To Do,Katherine Florez,2,,2,Planeada
+Inventario en JSON,123476,Detección uso de usb e incremento del contador,To Do,Katherine Florez,8,,8,Planeada
+Inventario en JSON,123477,Pruebas unitarias - detección de usb,To Do,Katherine Florez,1,,1,Planeada
+Inventario en JSON,123743,Prueba Unitaria scheduler,Done,Katherine Florez,4,4,0,No Planeada
+Inventario en JSON,123845,Lectura de log de windows de apagado suspendido y encendido,Done,Katherine Florez,4,3,0,No Planeada
+Inventario en JSON,123905,Uso del log del sistema para obtener el cambio de estado del equipo,Done,Katherine Florez,8,8,0,No Planeada
+Inventario en JSON,124247,Revisión de la Unión APWM con LOG del sistema,In Progress,Katherine Florez,8,4,4,No Planeada
+Inventario en JSON,123329,planeación,Done,Luis Alfredo Leon Britto,6,7,0,Planeada
+Inventario en JSON,123539,Revisión de notas de release,To Do,Luis Alfredo Leon Britto,1,,1,Planeada
+Inventario en JSON,123536,Socializar la información levantada de uipath,To Do,Luis Alfredo Leon Britto,2,,2,Planeada
+Inventario en JSON,123356,Revisión de código,To Do,Luis Alfredo Leon Britto,25,225,025,Planeada
+Inventario en JSON,123348,reuniones diarias,To Do,Luis Alfredo Leon Britto,25,225,025,Planeada
+Inventario en JSON,123366,Retrospectiva,To Do,Luis Alfredo Leon Britto,3,,3,Planeada
+Inventario en JSON,123503,Socialización con las pruebas que ya se realizaron del cruncher,To Do,Luis Alfredo Leon Britto,2,,2,Planeada
+Inventario en JSON,123524,Socializar información recopilada de los archivos,To Do,Luis Alfredo Leon Britto,2,2,0,Planeada
+Inventario en JSON,123530,Socializar el How To de pasos para el instalar un agente en caso de fallas,To Do,Luis Alfredo Leon Britto,1,1,0,Planeada
+Inventario en JSON,123544,Revisar información de los sugs,Done,Luis Alfredo Leon Britto,3,2,0,Planeada
+Inventario en JSON,123691,Cambios en la vista de apm,Done,Luis Alfredo Leon Britto,2,2,0,Planeada
+Inventario en JSON,123692,Cambios en la consulta para mejorar performance,Done,Luis Alfredo Leon Britto,5,5,0,Planeada
+Inventario en JSON,123693,Pruebas de descarga de parches,Done,Luis Alfredo Leon Britto,2,2,0,Planeada
+Inventario en JSON,123694,Pruebas para la creación de distribución a partir de los parches,Done,Luis Alfredo Leon Britto,2,2,0,Planeada
+Inventario en JSON,123697,Revision de cambios de patch para eliminar y agregar archivos,Done,Luis Alfredo Leon Britto,4,4,0,Planeada
+Inventario en JSON,123698,Pruebas de descarga con Service Pack,Done,Luis Alfredo Leon Britto,2,2,0,Planeada
+Inventario en JSON,123695,Reunión de seguimiento de ADM,In Progress,Luis Alfredo Leon Britto,2,1,1,Planeada
+Inventario en JSON,123717,Solución de bugs patch,To Do,Luis Alfredo Leon Britto,3,3,0,Planeada
+Inventario en JSON,123718,Preparar capacitación 9.6.1,To Do,Luis Alfredo Leon Britto,2,,,No Planeada
+Inventario en JSON,123719,Dar Capacitación 9.6.1,To Do,Luis Alfredo Leon Britto,3,,,No Planeada
+Inventario en JSON,123334,planeación,Done,Omar Alfonso Diaz Puerto,6,7,0,Planeada
+Inventario en JSON,122668,Control remoto en win10 win8 y server 2012,To Do,Omar Alfonso Diaz Puerto,8,,8,Planeada
+Inventario en JSON,123532,Prueba de concepto de la herramienta de uipath con Distribución,To Do,Omar Alfonso Diaz Puerto,8,,8,Planeada
+Inventario en JSON,123534,Socializar la información levantada de uipath,To Do,Omar Alfonso Diaz Puerto,2,,2,Planeada
+Inventario en JSON,122697,Actualizaciones de SQL,Done,Omar Alfonso Diaz Puerto,8,10,0,Planeada
+Inventario en JSON,122699,Actualizaciones de Office,Done,Omar Alfonso Diaz Puerto,8,9,0,Planeada
+Inventario en JSON,123343,reuniones diarias,In Progress,Omar Alfonso Diaz Puerto,25,25,0,Planeada
+Inventario en JSON,123364,Retrospectiva,To Do,Omar Alfonso Diaz Puerto,3,35,3,Planeada
+Inventario en JSON,123392,Generar casos de pruebas AFL completo,In Progress,Omar Alfonso Diaz Puerto,4,4,2,Planeada
+Inventario en JSON,123427,Escenarios de pruebas de ejecución de inventario de forma manual,To Do,Omar Alfonso Diaz Puerto,3,,3,Planeada
+Inventario en JSON,123453,Escenarios de pruebas de inventario APWM,Done,Omar Alfonso Diaz Puerto,3,4,0,Planeada
+Inventario en JSON,123478,Escenarios de pruebas Eliminar política desde listado de políticas,Done,Omar Alfonso Diaz Puerto,2,3,0,Planeada
+Inventario en JSON,123517,Revisar matriz de funcionalidad y actualizar,To Do,Omar Alfonso Diaz Puerto,25,,25,Planeada
+Inventario en JSON,123543,Realizar la revisión de las Sugs para ver cuales aplican y cuales no,Done,Omar Alfonso Diaz Puerto,8,8,0,Planeada
+Inventario en JSON,123546,Soporte - BanChile,Done,Omar Alfonso Diaz Puerto,2,2,0,No Planeada
+Inventario en JSON,123611,Soporte - Banco Nacional de Panama,Done,Omar Alfonso Diaz Puerto,3,3,0,No Planeada
+Inventario en JSON,123618,How To: How To Configuración procesamiento de Inventarios por los cruncher,Done,Omar Alfonso Diaz Puerto,1,1,0,No Planeada
+Inventario en JSON,123759,Pruebas Exploratorias de Patch Ambiente Migrado,Done,Omar Alfonso Diaz Puerto,14,14,0,No Planeada
+Inventario en JSON,124198,Cerrar casos de Service de asdk y ASMS,Done,Omar Alfonso Diaz Puerto,4,4,0,No Planeada
+Inventario en JSON,124199,Banchile (21/01/2020)-(22/01/2020),Done,Omar Alfonso Diaz Puerto,3,3,0,No Planeada
+Inventario en JSON,124200,Sesión- RF-2288-19-401605 Sincronización de Campos Core con la CMDB de ASMS,Done,Omar Alfonso Diaz Puerto,1,1,0,No Planeada
+Inventario en JSON,124273,Cierre de Bugs,Done,Omar Alfonso Diaz Puerto,2,2,0,No Planeada
+Inventario en JSON,124259,Evaluacuar y probar soluciones para lectura del cambio de estado del equipo en windows,Done,Katherine Florez,8,8,0,No Planeada
+Inventario en JSON,124232,Solucion Bug 123908,Done,Cristian Carvajal Bahamon,5,5,0,No Planeada
+Inventario en JSON,124261,Agregar botón en la pantalla del detalle del dispositivo,Done,Cristian Carvajal Bahamon,1,1,0,No Planeada
+Inventario en JSON,124269,Revision google test,In Progress,Dustin Sley Pinedo Hernandez,2,2,0,No Planeada
+Inventario en JSON,124271,Soporte back,Done,Harol Yesid Morera Camelo,4,4,0,No Planeada
+Inventario en JSON,124273,Pruebas script de instalación,Done,Harol Yesid Morera Camelo,4,4,0,No Planeada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
